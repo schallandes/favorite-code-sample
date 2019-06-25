@@ -1,5 +1,5 @@
-# favorite-code-sample
-One of my favorite code samples
+# code-sample
+One of my code samples
 
 This was a snippet of code I wrote for one of my assignemnts in my Visual Programming class. It is written in C#. I would say this is one of my favorites because I really had to sit down and struggle with the logic, making sure that everything works and that the code can actually determines if the defined string has any palindromes at all or not. The end result was very gratifying. 
 
